@@ -18,3 +18,6 @@ A range of machine learning/Data science projects covering topics like PySpark, 
 - Anomaly detection using Autoencoders
 
 ## PyTorch
+
+## Other projects
+AirBnB price evaluation and prediction
