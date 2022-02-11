@@ -20,4 +20,4 @@ A range of machine learning/Data science projects covering topics like PySpark, 
 ## PyTorch
 
 ## Other projects
-AirBnB price evaluation and prediction
+- AirBnB price evaluation and prediction -- using ScikitLearn
