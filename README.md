@@ -23,4 +23,5 @@ A range of machine learning/Data science projects covering topics like PySpark, 
 - AirBnB price evaluation and prediction -- using ScikitLearn
 
 ## Tableau Dashboards
-[Shipping costs](https://public.tableau.com/views/ExampleShippingcosts/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+- [Shipping costs for US superstore](https://public.tableau.com/views/ExampleShippingcosts/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+- [Sales and distribution for US superstore](https://public.tableau.com/views/ExampleProductsandShipping/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
