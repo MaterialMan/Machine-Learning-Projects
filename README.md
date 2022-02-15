@@ -21,3 +21,6 @@ A range of machine learning/Data science projects covering topics like PySpark, 
 
 ## Other projects
 - AirBnB price evaluation and prediction -- using ScikitLearn
+
+## Tableau Dashboards
+
