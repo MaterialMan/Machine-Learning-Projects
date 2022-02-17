@@ -16,9 +16,11 @@ A range of machine learning/Data science projects covering topics like PySpark, 
 
 ## Keras and Tensorflow
 - Anomaly detection using Autoencoders
+- Deep Convolutional Generative Adversarial Network (DC-GAN) with Fashion MNIST
 
 ## PyTorch
-
+- Text generation using LSTM
+- 
 ## Other projects
 - AirBnB price evaluation and prediction -- using ScikitLearn
 
