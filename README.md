@@ -20,7 +20,8 @@ A range of machine learning/Data science projects covering topics like PySpark, 
 
 ## PyTorch
 - Text generation using LSTM
-- 
+- Predict Income Bracket using Census Data
+ 
 ## Other projects
 - AirBnB price evaluation and prediction -- using ScikitLearn
 
